@@ -1,5 +1,5 @@
 
-<h1 align="center">🕵️‍♂️ SpyCamSniffer</h1>
+<h1 align="center">**🕵️‍♂️ SpyTrace - Camera Guard**</h1>
 <p align="center">
   🔐 A stealthy Python tool to detect unauthorized access to your webcam in real-time.
 </p>
