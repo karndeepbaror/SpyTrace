@@ -1,50 +1,43 @@
 
-<h1 align="center">**🕵️‍♂️ SpyTrace - Camera Guard**</h1>
+<h1 align="center">
+ 
+</h1>
 <p align="center">
-  🔐 A stealthy Python tool to detect unauthorized access to your webcam in real-time.
+  🕵️‍♂️ Stay invisible. Stay aware. A stealth tool to detect unauthorized webcam access in real-time.
+</p>
+<p align="center">
+  🔧 Python-based | 💻 Cross-platform | ⚡ Privacy Defender
 </p>
 
-⚠️ What is SpyCamSniffer?
 
-*SpyCamSniffer* is a lightweight, open-source Python tool built for cyber security professionals, privacy-conscious users, and ethical hackers.
+***📌 What is SpyTraceTool?***
 
-> 🧠 *Use Case:* Ever wondered if some app is secretly watching you through your webcam?  
-> This tool *sniffs* for any silent intruders attempting to access your camera — and alerts you ⚡
+*SpyTraceTool* is a lightweight yet powerful surveillance defense tool written in Python.  
+It detects if your webcam is being accessed *without your knowledge*, helping you catch spying apps or malware in real time.
 
----
+> 🔍 Think your system is safe? Think again.  
+> *SpyTraceTool* empowers ethical hackers, cyber experts, and privacy enthusiasts to stay one step ahead.
 
-🎯 Features
 
-- ✅ Detects active webcam usage in real-time
-- ⚠️ Warns you if your webcam is being used
-- 🧩 Minimal resource usage
-- 🧠 Easily extendable for mic/screen detection
-- 💻 Runs on Windows, Linux & Mac (OpenCV-supported)
+***🧩 Key Features***
 
----
+- 🎯 Real-time detection of webcam activity  
+- 🔔 Instant terminal alert when camera turns on  
+- 💡 Lightweight – no background bloat  
+- 🛠️ Easy to customize and expand
+  
 
-🛠 Installation
+***🚀 Installation & Usage***
 
-```bash
-git clone https://github.com/karndeepbaror/SpyCamSniffer
-cd SpyCamSniffer
-pip install -r requirements.txt
+*1. Clone the repo:*
+```
+git clone https://github.com/karndeepbaror/SpyTrace
+cd SpyTrace
 ```
 
----
-
-🚀 Usage
-
-```bash
-python spycamsniffer.py
+*3. Run the tool:*
+```
+python spytrace.py
 ```
 
-It will check every few seconds and alert you if the webcam is active!
-
----
-
-📦 Requirements
-
-All dependencies are listed in `requirements.txt`:
-
-- `opencv-python`
+📎 Connect
