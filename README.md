@@ -40,4 +40,13 @@ cd SpyTrace
 python spytrace.py
 ```
 
-📎 Connect
+***📎 Connect***
+
+*👤 Author:* Karndeep Baror  
+🔗 LinkedIn: [karndeepbaror](https://www.linkedin.com/in/karndeepbaror)
+
+---
+
+***⚠️ Disclaimer***
+
+_This tool is intended for *educational and ethical purposes only*._
