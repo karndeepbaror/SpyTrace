@@ -1,6 +1,6 @@
 
 <h1 align="center">
- 
+ 🔍 [ 𝙎𝙥𝙮𝙏𝙧𝙖𝙘𝙚 - 𝘾𝙖𝙢 𝙎𝙣𝙞𝙛𝙛𝙚𝙧 ] 🔍
 </h1>
 <p align="center">
   🕵️‍♂️ Stay invisible. Stay aware. A stealth tool to detect unauthorized webcam access in real-time.
